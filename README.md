@@ -9,5 +9,7 @@
 - React
 - Java
 
-## 📫 How to reach me: **Discord:** sudo200#4144
+## 📫 How to reach me: 
+**Discord:** sudo200#4144
+
 ## ⚡ Fun fact: Austria != Australia
