@@ -1,5 +1,8 @@
 # Hi there 👋
 
+![](https://shields.io/github/stars/sudo200?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+![](https://shields.io/github/followers/sudo200?label=followers&style=flat-square)
+
 ## 🔭 I’m currently working on
 - Uganda Knuckles (Utility Discord Bot)
 - My education
@@ -10,7 +13,7 @@
 - Java
 
 ## 📫 How to reach me: 
-**Discord:** sudo200#4144
+![](https://img.shields.io/static/v1?label=Discord&message=sudo200%234144&color=%235865F2&style=flat-square)
 
 ## ⚡ Fun fact: Austria != Australia
 
