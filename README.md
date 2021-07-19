@@ -6,6 +6,7 @@
 ## 🔭 I’m currently working on
 - Uganda Knuckles (Utility Discord Bot)
 - My education
+- A lot of secret things...
 
 ## 🌱 I’m currently learning:
 - C/C++ (also for embedded programming)
