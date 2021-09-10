@@ -20,3 +20,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sudo200&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)
 ![](https://github-readme-stats.vercel.app/api?username=sudo200&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)
+![trophy](https://github-profile-trophy.vercel.app/?username=sudo200&theme=discord)
