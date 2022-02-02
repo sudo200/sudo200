@@ -11,6 +11,7 @@
 ## 🌱 I’m currently learning:
 - C/C++ (also for embedded programming)
 - React
+- Ruby
 - Java
 
 ## 📫 How to reach me: 
