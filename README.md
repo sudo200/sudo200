@@ -9,7 +9,7 @@
 - A lot of secret things...
 
 ## 🌱 I’m currently learning:
-- Ruby
+- Lua
 - Rust
 
 ## 📫 How to reach me: 
