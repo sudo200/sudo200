@@ -20,3 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sudo200&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)
 ![](https://github-readme-stats.vercel.app/api?username=sudo200&theme=dracula&count_private=true&show_icons=true&border_color=FF6E96)
 ![trophy](https://github-profile-trophy.vercel.app/?username=sudo200&theme=discord)
+
+## 🔥 Other Stuff
+[My GPG Public Key 🔑](https://gist.github.com/sudo200/62b5d895f9bd0a844ef6a0f2cf2990e1)
