@@ -10,7 +10,7 @@
 
 ## 🌱 I’m currently learning:
 - Lua
-- Rust
+- Scala
 
 ## 📫 How to reach me: 
 ![](https://img.shields.io/static/v1?label=Discord&message=sudo200%234144&color=%235865F2&style=flat-square)
